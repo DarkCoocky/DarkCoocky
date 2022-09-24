@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DarkCoocky
-- 👀 I’m interested in open nas distros (i.e. like Yunohost or syncloud) because I'm looking for "the" distro ^^
+- 👀 I’m interested in open nas distros (i.e. like Yunohost or syncloud). And also in open domotics distro (HomeAssistant or GladysAssistant)
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on various projects as long as they are useful. 
 - 📫 How to reach me Discord : DarkCoocky#7008
